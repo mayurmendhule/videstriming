@@ -1,5 +1,5 @@
 const express = require("express");
-const User = require("../schema/User");
+const User = require("../Schema/User");
 const CryptoJS = require("crypto-js");
 const jwt = require("jsonwebtoken");
 

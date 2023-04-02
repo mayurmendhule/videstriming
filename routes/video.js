@@ -1,5 +1,5 @@
 const express = require("express");
-const Video = require("../schema/Video");
+const Video = require("../Schema/Video");
 const verify = require("../verifyToken");
 const router = express.Router();
 
